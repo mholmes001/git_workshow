@@ -1,2 +1,2 @@
-# git_workshow
+# git_workshop
 My code for the git workshop!
